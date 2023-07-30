@@ -105,3 +105,8 @@ div#category {
     background: rgba(0, 0, 0, 0.5) !important;
     color: #eeeeee;
 }
+
+.site-icon entered loaded {
+    width: 36px !important;
+    weight: 36px !important;
+}
